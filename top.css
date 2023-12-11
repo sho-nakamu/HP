@@ -1,0 +1,20 @@
+body{
+	font-weight: normal;
+	color: #333333;
+	font-family: sans-serif;
+	font-size: 16px;}
+
+  .head_btn{
+    font: 30px;
+    margin-left: 1000px;
+    width: 300px;
+    background-color:#FF6699; 
+    color: white;
+    border-style: solid;
+
+  }
+  .head_btn_{
+    color: wheat;
+    background-color: green;
+  }
+  
