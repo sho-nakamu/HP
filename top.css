@@ -1,3 +1,7 @@
+.header{
+  display: flex;
+  justify-content: space-between;
+}
 body{
 	font-weight: normal;
 	color: #333333;
@@ -5,16 +9,23 @@ body{
 	font-size: 16px;}
 
   .head_btn{
-    font: 30px;
-    margin-left: 1000px;
-    width: 300px;
+    font-size: 30px;
+    width: 150px;
     background-color:#FF6699; 
     color: white;
     border-style: solid;
-
+    text-align: center;
+    margin-right: 10px;
+    
   }
-  .head_btn_{
+  .head_btn1{
     color: wheat;
     background-color: green;
+    font-size: 30px;
+    width: 150px;
+    text-align: center
   }
   
+  .list_nav_area{
+    justify-content: space-between;
+  }
