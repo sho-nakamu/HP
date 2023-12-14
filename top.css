@@ -9,7 +9,7 @@ body{
 	font-size: 16px;}
 
   .head_btn{
-    font-size: 30px;
+    font-size: 25px;
     width: 150px;
     background-color:#FF6699; 
     color: white;
@@ -21,11 +21,32 @@ body{
   .head_btn1{
     color: wheat;
     background-color: green;
-    font-size: 30px;
+    font-size: 25px;
     width: 150px;
     text-align: center
   }
   
-  .list_nav_area{
+  .list_nav_header{
+    display: flex;
     justify-content: space-between;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    justify-items: center;
   }
+
+  .mv{
+    width: 100%;
+  }
+  .sec_01_left{
+    float: right;
+    margin-block: auto;
+  }
+  
+  .sec_01{
+    margin-top: 100px;
+}
+
+
+.sec_04{
+  margin-top: 40px
+}
