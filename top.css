@@ -36,6 +36,7 @@ body{
 
   .mv{
     width: 100%;
+    
   }
   .sec_01_left{
     float: right;
@@ -43,10 +44,64 @@ body{
   }
   
   .sec_01{
-    margin-top: 100px;
+  margin-top: 100px;
+}
+.sec_02_box{
+  display:flex;
+  width: 300px;
+  margin-top: 400px;
+  width: 40px;
+}
+.sec_03{
+  margin-top: 60px;
+}
+.sec_03_right{
+  font-size: 15x;
+	margin-bottom: 20px;
+  width: 100%;
+  float: right;
+}
+.sec_03_right h3{
+  font-size: 18px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  display: ;
+}
+.sec_03_p{
+  font-size: 14px;
+  display: flex;
+}
+figure.side_image{
+  display: inline-block;
+}
+p.side_text{
+  display: inline-block;
+  width: 300px;
+  margin-left:20px;
+  text-align: center;
+}
+.sec_04{
+  margin-top: 40px
+}
+.clearfix{
+  display: flex;
+}
+footer{
+  text-align: center;
+
+}
+.aewea_nav_header{
+  justify-content: space-between;
+}
+.list{
+  display: flex;
+  margin-top: 50px;
+  justify-content: space-between;
+  margin-right: 20px;
+  margin-left:30px;
 }
 
 
-.sec_04{
-  margin-top: 40px
+.copyright{
+  margin-top: 40px;
 }
