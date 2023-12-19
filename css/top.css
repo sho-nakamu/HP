@@ -3,6 +3,7 @@
   justify-content: space-between;
 }
 body{
+  max-width: 1200px;
 	font-weight: normal;
 	color: #333333;
 	font-family: sans-serif;
@@ -42,16 +43,25 @@ body{
     float: right;
     margin-block: auto;
   }
+  .sec_01_left img{
+    width: 100%;
+  }
   
   .sec_01{
   margin-top: 100px;
 }
-.sec_02_box{
+.sec_02_contect{
   display:flex;
   width: 300px;
   margin-top: 400px;
-  width: 40px;
 }
+.sec_02_contect img{
+  width: 100%;
+  justify-content: space-between;
+  text-align: center;
+}
+
+
 .sec_03{
   margin-top: 60px;
 }
@@ -65,7 +75,7 @@ body{
   font-size: 18px;
   margin-bottom: 10px;
   margin-top: 10px;
-  display: ;
+  display: 
 }
 .sec_03_p{
   font-size: 14px;
