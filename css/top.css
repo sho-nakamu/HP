@@ -81,6 +81,9 @@ body{
 .sec_03{
   margin-top: 60px;
 }
+.wrapper_03{
+  margin-top: 60px;
+}
 .sec_03_right{
   font-size: 15px;
 	margin-bottom: 20px;
@@ -109,12 +112,43 @@ p.side_text{
 .sec_04{
   margin-top: 40px
 }
+.sec_04_title{
+  margin-top: 40px;
+}
+
 .clearfix{
   display: flex;
+  margin-left: 10px;
+}
+
+.clearfix img{
+  width: 80%;
+  margin-right: 10px;
+}
+
+.clearfix h3{
+  font-size: 15px;
+} 
+
+
+.copyright{
+  margin-top: 40px;
+}
+
+.sec_btn{
+  width: 100%;
+  background-color: darkgray;
+  padding-left: 10px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.btn{
+  color: red;
+
 }
 footer{
   text-align: center;
-
+  
 }
 .aewea_nav_header{
   justify-content: space-between;
@@ -128,6 +162,3 @@ footer{
 }
 
 
-.copyright{
-  margin-top: 40px;
-}
