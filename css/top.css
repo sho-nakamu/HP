@@ -140,15 +140,21 @@ p.side_text{
   background-color: darkgray;
   padding-left: 10px;
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 60px;
+  display: flex;
 }
 .btn{
-  color: red;
-
+  background-color:red;
+  width: 30%;
+  color: white;
+}
+.btn__{
+  color: white;
+  background-color: green;
 }
 footer{
   text-align: center;
-  
+  margin-top: 80px;
 }
 .aewea_nav_header{
   justify-content: space-between;
