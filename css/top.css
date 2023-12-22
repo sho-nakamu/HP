@@ -95,20 +95,17 @@ body{
   margin-bottom: 10px;
   margin-top: 10px; 
 }
-.sec_03_p{
-  font-size: 14px;
+.area__flexbox img{
+  width: 40%;
+}
+
+.clear_fix{
   display: flex;
+  font-size: 15px;
+  margin-right: 5px;
+  background-color: grey;
 }
-figure.side_image{
-  display: inline-block;
-  display: flex;
-}
-p.side_text{
-  display: inline-block;
-  width: 300px;
-  margin-left:20px;
-  text-align: center;
-}
+
 .sec_04{
   margin-top: 40px
 }
