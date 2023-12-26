@@ -1,3 +1,4 @@
+
 .wrapper{
 	max-width: 1200px;
 	width: 100%;
@@ -7,6 +8,7 @@
 .boxes__01{
 	display: flex;
 	justify-content: space-between;
+	margin: 20px;
 }
 .box{
 	width: 30%;
@@ -17,11 +19,7 @@
 	margin: auto;
 }
 
-.box__01_text{
-	margin-top: 20px;
-	font-size: 30px;
-	font-family: auto;
-}
+
 .box__01_text h1{
 	font-weight: bold;
 	font-size: 35px;
