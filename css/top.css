@@ -4,6 +4,12 @@
 	}
 
 }
+.wrapper{
+  max-width: 1200px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
 .header{
   display: flex;
   justify-content: space-between;
@@ -46,11 +52,6 @@ body{
     justify-items: center;
   }
 
-  .wrapper{
-    max-width: 1200px;
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;}
 
   .mv{
     width: 100%;
@@ -126,6 +127,7 @@ body{
 
 .sec_04{
   margin-top: 40px;
+  margin-bottom: 40px;
 
 }
 .sec_04_title{
@@ -159,11 +161,28 @@ body{
   padding-top: 50px;
   padding-bottom: 50px;
   display: flex;
+  justify-content: space-between;
 }
 .btn{
   background-color:red;
   width: 30%;
   color: white;
+}
+.box_btn{
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  background-color: white;
+  margin:30px
+}
+.box_btn1{
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  background-color: white;
+  margin:30px
 }
 .btn__{
   color: white;
