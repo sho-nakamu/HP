@@ -194,13 +194,15 @@ footer{
 }
 .aewea_nav_header{
   justify-content: space-between;
+  
 }
 .list{
   display: flex;
   margin-top: 50px;
   justify-content: space-between;
-  margin-right: 20px;
-  margin-left:30px;
+  border: double;
+  padding-bottom:30px;
+  padding-top: 10px;
 }
 
 
