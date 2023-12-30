@@ -94,6 +94,7 @@ body{
 }x
 .sec_03{
   margin-top: 60px;
+  box-sizing: border-box;
 }
 .wrapper_03{
   margin-top: 60px;
