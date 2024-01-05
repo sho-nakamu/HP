@@ -39,11 +39,12 @@ body{
     font-size: 25px;
     width: 150px;
     text-align: center;
+    margin-right: 20px;
   }
   
   .list_nav_header{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     margin-bottom: 20px;
     margin-top: 20px;
     justify-items: center;
@@ -60,7 +61,7 @@ body{
   
   }
   .sec_01_left img{
-    width: 100%;
+    width: 300px;
     float: right;
   }
   
@@ -130,11 +131,12 @@ body{
 }
 .sec_04_title{
   margin-top: 40px;
+  margin-left: 50px;
 }
 
 .clearfix{
   display: flex;
-  margin-left: 10px;
+  margin-left: 50px;
 }
 
 .clearfix img{
@@ -159,7 +161,7 @@ body{
   padding-top: 50px;
   padding-bottom: 50px;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around
 }
 .btn{
   background-color:red;
@@ -167,18 +169,18 @@ body{
   color: white;
 }
 .box_btn{
-  padding-top: 30px;
-  padding-right: 30px;
-  padding-bottom: 30px;
-  padding-left: 30px;
+  padding-top: 60px;
+  padding-right: 60px;
+  padding-bottom: 60px;
+  padding-left: 60px;
   background-color: white;
   margin:30px
 }
 .box_btn1{
-  padding-top: 30px;
-  padding-right: 30px;
-  padding-bottom: 30px;
-  padding-left: 30px;
+  padding-top: 60px;
+  padding-right: 60px;
+  padding-bottom: 60px;
+  padding-left: 60px;
   background-color: white;
   margin:30px
 }
