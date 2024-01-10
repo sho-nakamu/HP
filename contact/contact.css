@@ -6,7 +6,6 @@
 }
 .wrapper{
   max-width: 1200px;
-  width: 100%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -65,17 +64,12 @@ body{
 .sec_btn{
   width: 100%;
   background-color: darkgray;
-  padding-top: 50px;
-  padding-left: 50px;
-  padding-top: 50px;
-  padding-bottom: 50px;
   display: flex;
   justify-content: space-between;
   text-align: center;
 }
 .btn{
   background-color:green;
-  width: 100px;
   color: white;
   padding-top: 10px;
   padding-right: 100px;
