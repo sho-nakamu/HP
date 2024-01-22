@@ -51,6 +51,7 @@ body{
 }
 .item{
   margin-bottom: 20px;
+  color:black
 }
 .label{
   float: left;

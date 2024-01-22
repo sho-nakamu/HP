@@ -68,7 +68,6 @@ body{
   }
   .sec_01_left img{
     width: 30%;
-    padding: 20px;
   }
   
   .sec_01{
@@ -85,15 +84,14 @@ body{
 }
 
 .sec_02_box{
-	width: 100%;
-  height: 50%;
-  margin-right: 10px;
-    margin-left: 10px;
+	width: 48%;
 }
 
+p{
+  padding-top: 10px
+}
 .sec_02_box img{
 	width:100%;
-	height: 50%;
   justify-content: space-between;
 }x
 .sec_03{
@@ -123,24 +121,15 @@ body{
   padding: 10px;
 }
 
-.sec_04{
-  margin-top: 40px;
-  margin-bottom: 40px;
 
-}
-.sec_04_title{
-  margin-top: 40px;
-  margin-left: 50px;
-}
 
 .clearfix{
   display: flex;
-  margin-left: 50px;
+  justify-content: space-between;
 }
 
 .clearfix img{
-  width: 80%;
-  margin-right: 10px;
+  width: 100%;
 }
 
 .clearfix h3{
@@ -156,8 +145,7 @@ body{
   width: 100%;
   background-color: darkgray;
   padding-top: 50px;
-  padding-left: 50px;
-  padding-top: 50px;
+  margin-right: 50px;
   padding-bottom: 50px;
   display: flex;
   justify-content: space-around
@@ -206,4 +194,11 @@ footer{
 
 .item{
   display: block;
+}
+section{
+  margin-top:50px ;
+}
+
+.clearfix li{
+  width: 32%;
 }
