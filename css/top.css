@@ -70,9 +70,6 @@ body{
     width: 30%;
   }
   
-  .sec_01{
-    padding-top: 100px;
-}
 
 .wrapper_02{
   margin-top: 300px;
@@ -153,6 +150,7 @@ p{
   background-color:red;
   width: 30%;
   color: white;
+  padding:10px;
 }
 .box_btn{
   padding-top: 60px;
@@ -160,7 +158,8 @@ p{
   padding-bottom: 60px;
   padding-left: 60px;
   background-color: white;
-  margin:30px
+  margin:30px;
+  text-align:center;
 }
 .box_btn1{
   padding-top: 60px;
@@ -168,11 +167,13 @@ p{
   padding-bottom: 60px;
   padding-left: 60px;
   background-color: white;
-  margin:30px
+  margin:30px;
+  text-align:center;
 }
 .btn__{
   color: white;
   background-color: green;
+  padding:10px;
 }
 footer{
   text-align: center;
@@ -195,9 +196,12 @@ footer{
   display: block;
 }
 section{
-  margin-top:50px ;
+  margin-top:80px ;
 }
 
 .clearfix li{
   width: 32%;
+}
+.name{
+  margin-bottom: 20px;
 }
